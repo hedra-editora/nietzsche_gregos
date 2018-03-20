@@ -1,0 +1,2011 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.6.7)  15 AUG 2014 13:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**NIETZSCHE.tex
+(./NIETZSCHE.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, et
+hiopic, farsi, arabic, pinyin, croatian, bulgarian, ukrainian, russian, slovak,
+ czech, danish, dutch, usenglishmax, ukenglish, finnish, french, basque, ngerma
+n, german, swissgerman, ngerman-x-2012-05-30, german-x-2012-05-30, monogreek, g
+reek, ibycus, ancientgreek, hungarian, bengali, tamil, hindi, telugu, gujarati,
+ sanskrit, malayalam, kannada, assamese, marathi, oriya, panjabi, italian, lati
+n, latvian, lithuanian, mongolian, mongolianlmc, nynorsk, bokmal, indonesian, e
+speranto, coptic, welsh, irish, interlingua, serbian, serbianc, slovenian, friu
+lan, romansh, estonian, romanian, armenian, uppersorbian, turkish, afrikaans, i
+celandic, kurmanji, polish, portuguese, galician, catalan, spanish, swedish, th
+ai, loaded.
+(./hedrabook.cls
+Document Class: hedrabook 2007/03/16 (v.2.2) Formato Básico de Livros da Edito
+ra Hedra
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count79
+\calc@Bcount=\count80
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip41
+\calc@Bskip=\skip42
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count81
+\calc@Cskip=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count82
+\Gm@cntv=\count83
+\c@Gm@tempcnt=\count84
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count85
+\c@chapter=\count86
+\c@section=\count87
+\c@subsection=\count88
+\c@subsubsection=\count89
+\c@paragraph=\count90
+\c@subparagraph=\count91
+\c@figure=\count92
+\c@table=\count93
+\abovecaptionskip=\skip44
+\belowcaptionskip=\skip45
+\bibindent=\dimen112
+))
+(/var/lib/texmf/tex/generic/babel/babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count94
+\U@D=\dimen113
+)
+\l@brazilian = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2012/04/20 UCS: Unicode global data
+)
+\uc@secondtry=\count95
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)) (./hedracrop.sty
+
+LaTeX Warning: You have requested package `hedracrop',
+               but the package provides `crop'.
+
+Package: crop 2003/05/20 v1.9 crop marks (mf)
+\stockwidth=\dimen114
+\stockheight=\dimen115
+\CROP@index=\count96
+(/usr/share/texlive/texmf-dist/tex/latex/svn/svn.sty
+Package: svn 2007/09/25 r43 Typeset Subversion keywords.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count97
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\CROP@offset=\count98
+Package crop Info: Local config file crop.cfg used on input line 623.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetexconfig/crop.cfg))
+(./hedrabolsolayout.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+))
+(./hedraextra.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
+Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ncctools/nccfoots.sty
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)
+\c@mypage=\count99
+
+(/usr/share/texlive/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
+\beforeepigraphskip=\skip55
+\afterepigraphskip=\skip56
+\epigraphwidth=\skip57
+\epigraphrule=\skip58
+)
+\c@@sectionNumCenter=\count100
+)
+(./hedratoc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2010/01/10 v2.4 Micro-typography with pdfTeX (RS)
+\MT@toks=\toks21
+\MT@count=\count101
+LaTeX Info: Redefining \lsstyle on input line 1597.
+LaTeX Info: Redefining \lslig on input line 1597.
+\MT@outer@space=\skip59
+LaTeX Info: Redefining \textls on input line 1605.
+\MT@outer@kern=\dimen119
+LaTeX Info: Redefining \textmicrotypecontext on input line 2156.
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2010/01/10 v2.4 microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment')
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks22
+\footnotemargin=\dimen120
+\c@pp@next@reset=\count103
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(/usr/local/share/texmf/tex/latex/MinionPro/MinionPro.sty
+Package: MinionPro 2012/08/03 v2.3 MinionPro support for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/share/texmf/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+
+(/usr/local/share/texmf/tex/latex/MinionPro/otfontdef.sty
+Package: otfontdef 2005/06/04 v0.1e OpenType font definition
+)
+\Mn@option@normalsize=\dimen121
+Package MinionPro-FontDef Info: Configuration: smallfamily, noopticals, normals
+ize=10.0pt on input line 52.
+\Mn@config@cnt=\count104
+
+(/usr/share/texlive/texmf-dist/tex/generic/fltpoint/fltpoint.sty
+Package: fltpoint 2004/11/12 v1.1b floating point arithmetic
+
+(/usr/share/texlive/texmf-dist/tex/generic/fltpoint/fltpoint.tex
+\fp@loopcount=\count105
+\fp@loopcountii=\count106
+\fp@result=\count107
+\fp@carryover=\count108
+\fp@tempcount=\count109
+\fp@tempcountii=\count110
+))
+\Mn@fontdimen=\dimen122
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mnsymbol/MnSymbol.sty
+Package: MnSymbol 2007/01/21 v1.4 support for the MnSymbol font
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks23
+\ex@=\dimen123
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen124
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count111
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count112
+\leftroot@=\count113
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count114
+\DOTSCASE@=\count115
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen125
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count116
+\c@MaxMatrixCols=\count117
+\dotsspace@=\muskip10
+\c@parentequation=\count118
+\dspbrk@lvl=\count119
+\tag@help=\toks24
+\row@=\count120
+\column@=\count121
+\maxfields@=\count122
+\andhelp@=\toks25
+\eqnshift@=\dimen126
+\alignsep@=\dimen127
+\tagshift@=\dimen128
+\tagwidth@=\dimen129
+\totwidth@=\dimen130
+\lineht@=\dimen131
+\@envbody=\toks26
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/eufrak.sty
+Package: eufrak 2009/06/22 v3.00 Euler Fraktur fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuFrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 39.
+)
+LaTeX Info: Redefining \dagger on input line 84.
+LaTeX Info: Redefining \ddagger on input line 84.
+LaTeX Info: Redefining \mathparagraph on input line 84.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 84.
+LaTeX Info: Redefining \mathsterling on input line 84.
+LaTeX Info: Redefining \Re on input line 84.
+LaTeX Info: Redefining \Im on input line 84.
+\symMnSyA=\mathgroup4
+\symMnSyB=\mathgroup5
+\symMnSyC=\mathgroup6
+\symMnSyD=\mathgroup7
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/MnSymbolE/m/n on input line 119.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> U/MnSymbolF/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `MnSyA' in version `bold'
+(Font)                  U/MnSymbolA/m/n --> U/MnSymbolA/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `MnSyB' in version `bold'
+(Font)                  U/MnSymbolB/m/n --> U/MnSymbolB/b/n on input line 122.
+LaTeX Font Info:    Overwriting symbol font `MnSyC' in version `bold'
+(Font)                  U/MnSymbolC/m/n --> U/MnSymbolC/b/n on input line 123.
+LaTeX Font Info:    Overwriting symbol font `MnSyD' in version `bold'
+(Font)                  U/MnSymbolD/m/n --> U/MnSymbolD/b/n on input line 124.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/MnSymbolE/m/n --> OMX/MnSymbolE/b/n on input line 1
+25.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolF/b/n on input line 126.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 241.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/MnSymbolS/m/n --> OMS/MnSymbolS/b/n on input line 2
+41.
+LaTeX Info: Redefining \longrightarrow on input line 548.
+LaTeX Info: Redefining \longleftarrow on input line 549.
+LaTeX Info: Redefining \longleftrightarrow on input line 550.
+LaTeX Info: Redefining \Longrightarrow on input line 551.
+LaTeX Info: Redefining \Longleftarrow on input line 552.
+LaTeX Info: Redefining \Longleftrightarrow on input line 553.
+LaTeX Info: Redefining \longmapsto on input line 554.
+LaTeX Info: Redefining \vdots on input line 868.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1721.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1722.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1723.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1724.
+LaTeX Info: Redefining \downbracefill on input line 1799.
+LaTeX Info: Redefining \upbracefill on input line 1800.
+LaTeX Info: Redefining \overbrace on input line 1819.
+LaTeX Info: Redefining \underbrace on input line 1820.
+LaTeX Info: Redefining \surd on input line 1843.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1845.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1846.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1848.
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 181.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 181.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> T1/MinionPro-LF/m/n on input line 181.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 181.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/MinionPro-LF/m/n on input line 181.
+
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 182.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/MinionPro-TOsF/m/it on input line 
+182.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/MinionPro-TOsF/m/it on input line 
+182.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/MinionPro-LF/m/n --> T1/MinionPro-LF/eb/n on input l
+ine 183.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/eb/it on
+ input line 184.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 185.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/MinionPro-LF/eb/n on input line 185
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/MinionPro-LF/eb/n on input line 185
+.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 186.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/MinionPro-LF/m/it on input line 186
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/MinionPro-LF/m/it on input line 18
+6.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/MinionPro-LF/m/it --> T1/MinionPro-LF/eb/it on input
+ line 187.
+\c@mv@tabular=\count123
+LaTeX Font Info:    Overwriting symbol font `operators' in version `tabular'
+(Font)                  T1/MinionPro-LF/m/n --> T1/MinionPro-TLF/m/n on input l
+ine 189.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `tabular'
+(Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/m/it on 
+input line 190.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `tabular'
+(Font)                  OT1/cmr/m/it --> T1/MinionPro-TLF/m/it on input line 19
+1.
+\c@mv@boldtabular=\count124
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldtabular
+'
+(Font)                  T1/MinionPro-LF/m/n --> T1/MinionPro-TLF/eb/n on input 
+line 194.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldtabular'
+(Font)                  OML/MinionPro-TOsF/m/it --> OML/MinionPro-TOsF/eb/it on
+ input line 195.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `boldtabular
+'
+(Font)                  OT1/cmr/m/it --> T1/MinionPro-TLF/eb/it on input line 1
+96.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 197.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 198.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 199.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 200.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 201.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 202.
+LaTeX Font Info:    Redeclaring math accent \check on input line 203.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 204.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 205.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 206.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2011/12/16 v1.0c Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+)
+LaTeX Font Info:    Redeclaring math symbol \partial on input line 517.
+LaTeX Font Info:    Redeclaring math symbol \ell on input line 519.
+Package textcomp Info: Setting MinionPro-LF sub-encoding to TS1/1 on input line
+ 539.
+Package textcomp Info: Setting MinionPro-TLF sub-encoding to TS1/1 on input lin
+e 540.
+Package textcomp Info: Setting MinionPro-OsF sub-encoding to TS1/1 on input lin
+e 541.
+Package textcomp Info: Setting MinionPro-TOsF sub-encoding to TS1/1 on input li
+ne 542.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 607.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolFI/m/it on input line 607
+.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolF/b/n --> U/MnSymbolFI/m/it on input line 607
+.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `tabular'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolFI/m/it on input line 607
+.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldtabular'
+(Font)                  U/MnSymbolF/m/n --> U/MnSymbolFI/m/it on input line 607
+.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/MnSymbolFI/m/it --> U/MnSymbolFI/b/it on input line 6
+07.
+LaTeX Font Info:    Redeclaring math symbol \tint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \tiint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \tiiint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \tiiiint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \tidotsint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \tlandupint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \tlanddownint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \tstrokedint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \toint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \toiint on input line 607.
+LaTeX Font Info:    Redeclaring math symbol \trcirclerightint on input line 607
+.
+LaTeX Font Info:    Redeclaring math symbol \tlcirclerightint on input line 607
+.
+LaTeX Font Info:    Redeclaring math symbol \trcircleleftint on input line 607.
+
+LaTeX Font Info:    Redeclaring math symbol \tlcircleleftint on input line 607.
+
+LaTeX Font Info:    Redeclaring math symbol \tsumint on input line 607.
+LaTeX Info: Redefining \LaTeX on input line 615.
+LaTeX Font Info:    Try loading font information for OT1+MinionPro-OsF on input
+ line 647.
+
+(/usr/local/share/texmf/tex/latex/MinionPro/OT1MinionPro-OsF.fd
+File: OT1MinionPro-OsF.fd 2005/01/23 v2.0 font definitions for OT1/MinionPro-Os
+F.
+
+(/usr/local/share/texmf/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+)))
+
+LaTeX Warning: Unused global option(s):
+    [10pt].
+
+No file NIETZSCHE.aux.
+\openout1 = `NIETZSCHE.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 27.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 27.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(39.83385pt, 236.15787pt, 45.52441pt)
+* v-part:(T,H,B)=(51.21495pt, 421.10078pt, 25.60748pt)
+* \paperwidth=321.51613pt
+* \paperheight=497.92322pt
+* \textwidth=236.15787pt
+* \textheight=421.10078pt
+* \oddsidemargin=-32.43614pt
+* \evensidemargin=-26.74557pt
+* \topmargin=-51.12253pt
+* \headheight=12.0pt
+* \headsep=4.30554pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count125
+\scratchdimen=\dimen132
+\scratchbox=\box28
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen133
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks29
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package crop Info: requested driver: `' on input line 27.
+Package crop Info: detected driver: `pdftex' on input line 27.
+Package crop Info: using `pdftex' graphics driver on input line 27.
+
+ABD: EveryShipout initializing macros
+LaTeX Info: Redefining \microtypecontext on input line 27.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(/usr/local/share/texmf/tex/latex/MinionPro/mt-MinionPro.cfg
+File: mt-MinionPro.cfg 2005/02/07 v1.0 microtype config file for MinionPro
+)
+LaTeX Font Info:    Try loading font information for T1+MinionPro-LF on input l
+ine 38.
+
+(/usr/local/share/texmf/tex/latex/MinionPro/T1MinionPro-LF.fd
+File: T1MinionPro-LF.fd 2005/01/23 v2.0 font definitions for T1/MinionPro-LF.
+
+(/usr/local/share/texmf/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+))
+
+Package microtype Warning: Unknown slot number of character
+(microtype)                `\j '
+(microtype)                in font encoding `T1' in inheritance list
+(microtype)                `microtype.cfg/186(protrusion)'.
+
+LaTeX Font Info:    Try loading font information for OML+MinionPro-TOsF on inpu
+t line 38.
+(/usr/local/share/texmf/tex/latex/MinionPro/OMLMinionPro-TOsF.fd
+File: OMLMinionPro-TOsF.fd 2005/01/23 v2.0 font definitions for OML/MinionPro-T
+OsF.
+
+(/usr/local/share/texmf/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+))
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 38.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <7> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 38.
+
+<pecinha.pdf, id=1, 56.3708pt x 106.7187pt>
+File: pecinha.pdf Graphic file (type pdf)
+ <use pecinha.pdf>
+Package pdftex.def Info: pecinha.pdf used on input line 38.
+(pdftex.def)             Requested size: 16.16132pt x 35.14236pt.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2012/04/20 UCS: Unicode data U+0000..U+00FF
+)
+Overfull \hbox (153.94893pt too wide) in alignment at lines 38--38
+[][][]
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./pecinha.pdf>]
+LaTeX Font Info:    Try loading font information for TS1+pcr on input line 41.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+)
+LaTeX Font Info:    Font shape `TS1/pcr/bx/n' in size <7> not available
+(Font)              Font shape `TS1/pcr/b/n' tried instead on input line 41.
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <5> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 41.
+
+Overfull \hbox (4.60585pt too wide) in paragraph at lines 80--80
+[]  
+ []
+
+
+Overfull \hbox (220.20166pt too wide) in alignment at lines 38--82
+[][][]
+ []
+
+[2]
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 85.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+Overfull \hbox (221.14888pt too wide) in alignment at lines 83--85
+[][][]
+ []
+
+[3
+
+]
+\openout2 = `PRETAS.aux'.
+
+ (./PRETAS.tex
+LaTeX Font Info:    Font shape `OT1/MinionPro-OsF/bx/n' in size <9> not availab
+le
+(Font)              Font shape `OT1/MinionPro-OsF/b/n' tried instead on input l
+ine 3.
+ [4
+
+]) [5
+
+] [6
+
+]
+No file NIETZSCHE.toc.
+\tf@toc=\write4
+\openout4 = `NIETZSCHE.toc'.
+
+[7]
+\openout2 = `INTRO.aux'.
+
+ (./INTRO.tex [8
+
+
+]
+LaTeX Font Info:    Calculating math sizes for size <10.8> on input line 19.
+LaTeX Font Info:    Font shape `OT1/MinionPro-OsF/bx/n' in size <10.8> not avai
+lable
+(Font)              Font shape `OT1/MinionPro-OsF/b/n' tried instead on input l
+ine 23.
+
+
+LaTeX Warning: Reference `perguntassobreosinicios' on page 9 undefined on input
+ line 23.
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 6--24
+\OT1/MinionPro-OsF/m/n/10.8 lugares--comuns ha-bi-tu-al-mente re-ser-va-dos ao 
+pen-sa-
+ []
+
+
+Underfull \hbox (badness 3735) in paragraph at lines 6--24
+\OT1/MinionPro-OsF/m/n/10.8 rom[]antico pen-sa-dor ico-no-clasta, que conta di-
+ri-gir
+ []
+
+
+LaTeX Warning: Reference `atmosferapessoal' on page 9 undefined on input line 3
+9.
+
+[9]
+
+LaTeX Warning: Reference `possivelinferir' on page 10 undefined on input line 5
+0.
+
+
+LaTeX Warning: Reference `amaneirade' on page 10 undefined on input line 53.
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 43--58
+\OT1/MinionPro-OsF/m/n/10.8 por in-tro-du-zir a quest[]ao do ``va-lor dos va-lo
+-res'', to-
+ []
+
+
+LaTeX Warning: Reference `simplificado' on page 10 undefined on input line 64.
+
+LaTeX Font Info:    Font shape `OT1/MinionPro-OsF/bx/n' in size <10> not availa
+ble
+(Font)              Font shape `OT1/MinionPro-OsF/b/n' tried instead on input l
+ine 65.
+[10]
+
+LaTeX Warning: Reference `complatao' on page 11 undefined on input line 70.
+
+
+LaTeX Warning: Reference `incrivelmentearduo' on page 11 undefined on input lin
+e 77.
+
+
+LaTeX Warning: Reference `tarefaaserlevada' on page 11 undefined on input line 
+88.
+
+
+LaTeX Warning: Reference `comparacao' on page 11 undefined on input line 95.
+
+
+LaTeX Warning: Reference `ograndehomem' on page 11 undefined on input line 99.
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 92--105
+\OT1/MinionPro-OsF/m/n/10.8 como re-a-li-dade hist[]orico--cultural. Sem resign
+a[][]ao,
+ []
+
+[11]
+
+LaTeX Warning: Reference `pensamentodetales' on page 12 undefined on input line
+ 113.
+
+
+LaTeX Warning: Reference `foiumdogma' on page 12 undefined on input line 119.
+
+
+LaTeX Warning: Reference `certezasque' on page 12 undefined on input line 123.
+
+
+LaTeX Warning: Reference `medidaseseusmoldes' on page 12 undefined on input lin
+e 126.
+
+
+LaTeX Warning: Reference `primeiroescritor' on page 12 undefined on input line 
+135.
+
+
+LaTeX Warning: Reference `laondeascoisas' on page 12 undefined on input line 14
+0.
+
+[12]
+
+LaTeX Warning: Reference `essaultimaunidade' on page 13 undefined on input line
+ 159.
+
+
+LaTeX Warning: Reference `sereterno' on page 13 undefined on input line 173.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+
+LaTeX Warning: Reference `oquevale' on page 14 undefined on input line 184.
+
+
+LaTeX Warning: Reference `noitemistica' on page 14 undefined on input line 200.
+
+
+
+Underfull \hbox (badness 5622) in paragraph at lines 187--201
+ \OT1/MinionPro-OsF/b/n/10 Her[]aclito de []Efeso[] []\OT1/MinionPro-OsF/m/n/10
+.8 E n[]^^Ptido que, como an[]atema
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 187--201
+\OT1/MinionPro-OsF/m/n/10.8 pro-fe-rido con-tra a exist[]encia, o alu-dido ``de
+-lito on-
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 187--201
+\OT1/MinionPro-OsF/m/n/10.8 tol[]ogico'' s[]o pode en-se-jar um cor-ro-sivo mo-
+vi-mento
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 187--201
+\OT1/MinionPro-OsF/m/n/10.8 de desvaloriza[][]ao deste mundo em nome de ou-tro,
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+
+LaTeX Warning: Reference `esseunicomundo' on page 15 undefined on input line 21
+7.
+
+
+LaTeX Warning: Reference `abalosismico' on page 15 undefined on input line 227.
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Underfull \hbox (badness 2521) in paragraph at lines 233--240
+[][]\OT1/MinionPro-OsF/m/n/10.8 A res-posta a essa per-gunta so-mos le-va-dos p
+or
+ []
+
+
+LaTeX Warning: Reference `sereterno' on page 16 undefined on input line 246.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+
+LaTeX Warning: Reference `acreditamosnatradicao' on page 17 undefined on input 
+line 271.
+
+
+LaTeX Warning: Reference `comseucontemporaneo' on page 17 undefined on input li
+ne 286.
+
+
+LaTeX Warning: Reference `eletomavaumpar' on page 17 undefined on input line 29
+9.
+
+
+LaTeX Warning: Reference `odio' on page 17 undefined on input line 314.
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 302--315
+\OT1/MinionPro-OsF/m/n/10.8 do par positivo--negativo pe-los ter-mos ``exis-ten
+te'' e
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+[18]
+
+LaTeX Warning: Reference `temadaontologia' on page 19 undefined on input line 3
+44.
+
+
+LaTeX Warning: Reference `zenaovaleuse' on page 19 undefined on input line 364.
+
+
+
+LaTeX Warning: Reference `velhohomem' on page 19 undefined on input line 380.
+
+
+LaTeX Warning: Reference `aorigemeoinicio' on page 19 undefined on input line 3
+95.
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 374--396
+ \OT1/MinionPro-OsF/b/n/10 Anax[]agoras de Claz[]omenas[] []\OT1/MinionPro-OsF/
+m/n/10.8 E esse o ho-ri-zonte her-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+
+LaTeX Warning: Reference `asipropria' on page 20 undefined on input line 403.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+
+LaTeX Warning: Reference `coisasquesao' on page 21 undefined on input line 418.
+
+
+
+LaTeX Warning: Reference `ocontatoe' on page 21 undefined on input line 427.
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 421--428
+\OT1/MinionPro-OsF/m/n/10.8 a mat[]eria im-plica acei-tar, mas sem per-der de v
+ista
+ []
+
+
+LaTeX Warning: Reference `causasui' on page 21 undefined on input line 438.
+
+
+LaTeX Warning: Reference `nessedilema' on page 21 undefined on input line 446.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+
+LaTeX Warning: Reference `exmachina' on page 22 undefined on input line 452.
+
+
+LaTeX Warning: Reference `mistura' on page 22 undefined on input line 464.
+
+
+LaTeX Warning: Reference `suaspartes' on page 22 undefined on input line 471.
+
+
+LaTeX Warning: Reference `causafinalis' on page 22 undefined on input line 484.
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+
+LaTeX Warning: Reference `naopossuinenhuma' on page 23 undefined on input line 
+498.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+
+LaTeX Warning: Reference `santos' on page 24 undefined on input line 520.
+
+) [24] [25
+
+
+] [26]
+\openout2 = `TEXTO.aux'.
+
+ (./TEXTO.tex
+Underfull \hbox (badness 1052) in paragraph at lines 5--27
+\OT1/MinionPro-OsF/m/n/10.8 pr[]oximos, jul-ga-mos de acordo com os meios pe-lo
+s
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 5--27
+\OT1/MinionPro-OsF/m/n/10.8 Por isso, mui-tos s[]ao os ho-mens que re-pro-vam t
+ais
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28]
+Underfull \hbox (badness 3724) in paragraph at lines 43--61
+\OT1/MinionPro-OsF/m/sc/10.8 Essa ten-ta-tiva \OT1/MinionPro-OsF/m/n/10.8 de co
+n-tar a hist[]oria dos an-ti-gos
+ []
+
+[29
+
+] [30
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34]
+Underfull \hbox (badness 1199) in paragraph at lines 173--191
+\OT1/MinionPro-OsF/m/n/10.8 ide-a-li-zado como aquele per-ti-nente aos an-ti-go
+s mes-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+Underfull \hbox (badness 4660) in paragraph at lines 192--244
+[]\OT1/MinionPro-OsF/m/n/10.8 Sobre essa ele-vada con-versa en-tre os esp[]^^Pr
+itos
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36] [37]
+LaTeX Font Info:    Try loading font information for TS1+MinionPro-OsF on input
+ line 354.
+ (/usr/local/share/texmf/tex/latex/MinionPro/TS1MinionPro-OsF.fd
+File: TS1MinionPro-OsF.fd 2005/01/23 v2.0 font definitions for TS1/MinionPro-Os
+F.
+
+(/usr/local/share/texmf/tex/latex/MinionPro/MinionPro-FontDef.sty
+File: MinionPro-FontDef.sty 2007/02/01 v2.2 font definition macros
+))
+Underfull \hbox (badness 1107) in paragraph at lines 247--384
+[]\OT1/MinionPro-OsF/m/n/10.8 Depois de tais considera[][]oes, n[]ao pa-re-cer[
+]a algo
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 247--384
+\OT1/MinionPro-OsF/m/n/10.8 tos socr[]aticos, pi-tag[]oricos e he-ra-cli-ti-a-n
+os acham--se
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 247--384
+\OT1/MinionPro-OsF/m/n/10.8 vado, de Pit[]agoras, me-lan-co-li-ca-mente com-pas
+-sivo e
+ []
+
+
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[40]
+Underfull \vbox (badness 1194) has occurred while \output is active []
+
+ [41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[42] [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[44]
+Underfull \hbox (badness 1527) in paragraph at lines 449--554
+\OT1/MinionPro-OsF/m/n/10.8 pra-ti-ca-mente to-dos os ti-pos exis-ten-tes, pud[
+]essemos
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[46] [47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[48] [49]
+Underfull \vbox (badness 2096) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[50]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [51]
+Underfull \hbox (badness 1748) in paragraph at lines 640--670
+\OT1/MinionPro-OsF/m/n/10.8 f[]^^Psicos, dirigindo--nos []aquela senten[]a la-p
+i-dar in-tro-
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 640--670
+\OT1/MinionPro-OsF/m/n/10.8 do im-per-ti-nente de-cai-mento da uni-dade pri-mor
+-dial
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[54] [55]
+Underfull \hbox (badness 1132) in paragraph at lines 753--819
+\OT1/MinionPro-OsF/m/n/10.8 abrange, por[]em, duas inst[]ancias: pri-mei-ra-men
+te, o
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[56]
+Underfull \vbox (badness 1242) has occurred while \output is active []
+
+ [57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[58] [59]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[60]
+Underfull \hbox (badness 1371) in paragraph at lines 869--889
+\OT1/MinionPro-OsF/m/n/10.8 p. 175): ``A mat[]eria per-ma-nente pre-cisa, in-ce
+s-san-te-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [61]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[62]
+Underfull \hbox (badness 1237) in paragraph at lines 925--938
+\OT1/MinionPro-OsF/m/n/10.8 eter-nas nem \OT1/MinionPro-OsF/m/it/10.8 phan-tas-
+mata \OT1/MinionPro-OsF/m/n/10.8 de nos-sos sen-ti-dos (mais
+ []
+
+
+Underfull \hbox (badness 1057) in paragraph at lines 925--938
+\OT1/MinionPro-OsF/m/n/10.8 mente, do fogo con-sigo pr[]oprio, sendo que ape-na
+s
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 939--1010
+\OT1/MinionPro-OsF/m/n/10.8 Fiando--se, no es-sen-cial, em Ta-les, in-clu-sive 
+for-ta-le-
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 939--1010
+\OT1/MinionPro-OsF/m/n/10.8 como alento, respira[][]ao quente, va-po-res se-cos
+, em
+ []
+
+
+Underfull \hbox (badness 1783) in paragraph at lines 939--1010
+\OT1/MinionPro-OsF/m/n/10.8 xi-man-dro na-quilo que es-sas representa[][]oes co
+nt[]em
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 939--1010
+\OT1/MinionPro-OsF/m/n/10.8 pre-en-deu e de-no-mi-nou o novo e nas-cente im-pul
+so
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [63]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[64] [65]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[66] [67]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[68] [69]
+Underfull \hbox (badness 1490) in paragraph at lines 1137--1194
+\OT1/MinionPro-OsF/m/n/10.8 jogo, num fil[]osofo, []e o or-gu-lho, ent[]ao se t
+rata de
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 1137--1194
+\OT1/MinionPro-OsF/m/n/10.8 uma v[]a pos-si-bi-li-dade. Se-gundo sua ess[]encia
+, todo
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[72] [73]
+Underfull \hbox (badness 1845) in paragraph at lines 1226--1261
+\OT1/MinionPro-OsF/m/n/10.8 cal-cula: com seu con-tem-por[]aneo Parm[]enides um
+a
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 1226--1261
+\OT1/MinionPro-OsF/m/n/10.8 digno e am-plo no in-te-rior mesmo da-quele enorme
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[74]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [75]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[76]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[78]
+Underfull \hbox (badness 5592) in paragraph at lines 1363--1430
+[]\OT1/MinionPro-OsF/m/n/10.8 Mas ningu[]em as-se-dia im-pu-ne-mente abstra[][]
+oes
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 1363--1430
+\OT1/MinionPro-OsF/m/n/10.8 es-cola e tam-pouco par-ti-lham algo que um pu-dess
+e
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 1363--1430
+\OT1/MinionPro-OsF/m/n/10.8 t[]ao trans-for-ma-dora como Pit[]agoras, ele co-mu
+n-gava,
+ []
+
+[79]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[80]
+Underfull \hbox (badness 6641) in paragraph at lines 1431--1455
+[]\OT1/MinionPro-OsF/m/n/10.8 Foi, an-tes, numa situa[][]ao oposta a esta que
+ []
+
+[81]
+LaTeX Font Info:    Font shape `OT1/MinionPro-OsF/bx/n' in size <8> not availab
+le
+(Font)              Font shape `OT1/MinionPro-OsF/b/n' tried instead on input l
+ine 1482.
+
+
+LaTeX Warning: Reference `colli' on page 82 undefined on input line 1482.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[82]
+Underfull \hbox (badness 2799) in paragraph at lines 1484--1504
+\OT1/MinionPro-OsF/m/n/10.8 mid[]aveis abstra[][]oes. Aquilo que ver-da-dei-ra-
+mente
+ []
+
+[83]
+Underfull \hbox (badness 1331) in paragraph at lines 1505--1539
+\OT1/MinionPro-OsF/m/n/10.8 agora, seu im-pe-ra-tivo, ``e tam-pouco pelo es-tri
+-dente
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[84]
+Underfull \hbox (badness 1226) in paragraph at lines 1542--1571
+\OT1/MinionPro-OsF/m/n/10.8 para ent[]ao fi-xar o olho sob as ima-cu-la-das e i
+n-des-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[86]
+Underfull \hbox (badness 2119) in paragraph at lines 1572--1644
+\OT1/MinionPro-OsF/m/n/10.8 se-me-lhan-tes a essa, Arist[]oteles tor-nou pa-ten
+te que
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 1572--1644
+\OT1/MinionPro-OsF/m/n/10.8 ``ser'' e ``n[]ao--ser'', tam-pouco po-der[]ao apro
+ximar--nos,
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89]
+Underfull \hbox (badness 1762) in paragraph at lines 1647--1754
+\OT1/MinionPro-OsF/m/n/10.8 de exis-tente e que tamb[]em j[]a fora des-co-berto
+ por
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 1647--1754
+\OT1/MinionPro-OsF/m/n/10.8 por \OT1/MinionPro-OsF/m/it/10.8 ve-ri-tas ae-terna
+\OT1/MinionPro-OsF/m/n/10.8 . Ha-vendo mo-vi-mento ab-so-luto,
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[90] [91]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[92]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[94]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[96]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [97]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[98]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [99]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[100] [101]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[102] [103]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[104]
+Underfull \hbox (badness 1755) in paragraph at lines 2053--2138
+[]\OT1/MinionPro-OsF/m/n/10.8 O exame dessa su-cess[]ao in-du-bi-ta-vel-mente c
+erta,
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 2053--2138
+\OT1/MinionPro-OsF/m/n/10.8 num mo-mento se-cund[]ario, ocorreu--lhe es-cla-rec
+[]e--lo.
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 2053--2138
+\OT1/MinionPro-OsF/m/n/10.8 mo-vi-mento das ver-da-dei-ras es-sen-ci-a-li-da-de
+s iso-la-das
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 2053--2138
+\OT1/MinionPro-OsF/m/n/10.8 con-tra-par-tida, ele per-ce-beu ni-ti-da-mente a n
+a-tu-reza
+ []
+
+[105]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[106]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [107]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[108]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [109]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[110]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [111]
+Underfull \vbox (badness 1546) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[112]
+Underfull \hbox (badness 1694) in paragraph at lines 2286--2373
+\OT1/MinionPro-OsF/m/n/10.8 mo-vi-mento, para que, a par-tir dela, sem qual-que
+r
+ []
+
+
+Underfull \hbox (badness 1102) in paragraph at lines 2286--2373
+\OT1/MinionPro-OsF/m/n/10.8 e en-ge-nho-sa-mente di-re-ci-o-nado. Este mo-vi-me
+nto []e,
+ []
+
+[113]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[114]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[116] [117]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[118] [119]
+Underfull \hbox (badness 1038) in paragraph at lines 2466--2505
+\OT1/MinionPro-OsF/m/n/10.8 or-de-nada, que, em c[]^^Prculos conc[]entricos, ap
+re-en-dia
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[120]
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+ [121]
+Underfull \hbox (badness 2269) in paragraph at lines 2506--2581
+[]\OT1/MinionPro-OsF/m/n/10.8 Para os fil[]osofos pos-te-ri-o-res da An-ti-gui-
+dade, o
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 2506--2581
+\OT1/MinionPro-OsF/m/n/10.8 de modo me-ca-ni-ca-mente de-ter-mi-nado ap[]os tal
+ mo-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[122]
+Underfull \vbox (badness 1635) has occurred while \output is active []
+
+ [123]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 12.22803pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[124]) [125]
+\openout2 = `FINAIS.aux'.
+
+ (./FINAIS.tex
+(/home/jorge/LATEX/svn/template/livro/hedrabook/PUBLICIDADE.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+[126
+
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [127]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [128]
+[129])
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10.8> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 9.
+
+Overfull \hbox (227.02104pt too wide) in alignment at lines 8--26
+[][][]
+ []
+
+) [130
+
+] (./NIETZSCHE.aux (./PRETAS.aux) (./INTRO.aux) (./TEXTO.aux)
+(./FINAIS.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11039 strings out of 493485
+ 183499 string characters out of 3143527
+ 344587 words of memory out of 3000000
+ 13280 multiletter control sequences out of 15000+200000
+ 458545 words of font info for 743 fonts, out of 3000000 for 9000
+ 965 hyphenation exceptions out of 8191
+ 53i,26n,68p,337b,811s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/usr/s
+hare/texlive/texmf-dist/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/usr/local/shar
+e/texmf/fonts/enc/dvips/MinionPro/base-MinionPro-ae.enc}{/usr/local/share/texmf
+/fonts/enc/dvips/MinionPro/base-MinionPro-ab.enc}{/usr/local/share/texmf/fonts/
+enc/dvips/MinionPro/base-MinionPro-ac.enc}{/usr/local/share/texmf/fonts/enc/dvi
+ps/MinionPro/base-MinionPro-aa.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvi
+ps/base/8r.enc}</usr/local/share/texmf/fonts/type1/adobe/MinionPro/MinionPro-Bo
+ld.pfb></usr/local/share/texmf/fonts/type1/adobe/MinionPro/MinionPro-It.pfb></u
+sr/local/share/texmf/fonts/type1/adobe/MinionPro/MinionPro-Regular.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/mnsymbol/MnSymbol8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb>
+Output written on NIETZSCHE.pdf (130 pages, 1469152 bytes).
+PDF statistics:
+ 507 PDF objects out of 1000 (max. 8388607)
+ 346 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 96774 words of extra memory for PDF output out of 106986 (max. 10000000)
+

@@ -1,0 +1,17 @@
+\select@language {brazilian}
+\select@language {brazilian}
+\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o, por Fernando R.~de Moraes Barros}{9}
+\contentsline {section}{a origem da filosofia como quest\IeC {\~a}o}{9}
+\contentsline {section}{A maneira de viver e o conceito}{10}
+\contentsline {section}{o grande homem}{11}
+\contentsline {paragraph}{Tales de Mileto}{12}
+\contentsline {paragraph}{Anaximandro de Mileto}{13}
+\contentsline {paragraph}{Her\IeC {\'a}clito de \IeC {\'E}feso}{14}
+\contentsline {paragraph}{Parm\IeC {\^e}nides de Eleia}{17}
+\contentsline {paragraph}{Zen\IeC {\~a}o de Eleia}{19}
+\contentsline {paragraph}{Anax\IeC {\'a}goras de Claz\IeC {\^o}menas}{20}
+\contentsline {section}{O vir"-a"-ser}{24}
+\contentsline {part}{\MakeTextLowercase {A filosofia na era tr\IeC {\'a}gica dos gregos}}{25}
+\contentsline {chapter}{Primeiro pref\IeC {\'a}cio}{27}
+\contentsline {chapter}{Segundo pref\IeC {\'a}cio}{29}
+\contentsline {chapter}{A filosofia na era tr\IeC {\'a}gica dos gregos}{31}
