@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 echo "Escolha a opção:"
 echo "1. Contextualizar palavras do dicionário especial (dic.pws)"
 echo "2. Passar corretor ortográfico (aspell) em todos os arquivos .tex"
