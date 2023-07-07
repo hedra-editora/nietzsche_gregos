@@ -1,0 +1,17 @@
+---
+title: A filosofia na era trágica dos gregos
+author: 
+- Friedrich Nietzsche
+rights: Editora Hedra
+edition: Primeira Edição
+lang: pt-BR
+mainlang: portuguese
+otherlang: portuguese
+tags: [pandoc, book, my-book, etc]
+abstract: A filosofia na era trágica dos gregos (1873) constitui um dos comentários mais importantes da filosofia pré-socrática. Escrito póstumo e inacabado, Nietzsche defende nele a tese de que os pensadores anteriores a Platão foram os únicos que ousaram compreender a dimensão trágica das forças que regem a vida dos homens. Ao contrário da filosofia posterior, não reduziram metafisicamente a realidade à dimensão do certo e do errado. Se costumamos atribuir a Sócrates o início da filosofia, Nietzsche sugere aqui que talvez ela tenha justamente terminado com ele.
+mainfont: DejaVu Sans
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
+
