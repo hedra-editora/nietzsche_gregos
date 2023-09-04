@@ -1,5 +1,3 @@
-# dumont_baloes
-
 # Primeira diagramação
 - [ ] Estruturação de níveis (Ex: Chapter)
 - [ ] Tamanho e tipo da fonte
