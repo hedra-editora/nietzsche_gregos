@@ -1,27 +1,27 @@
 # Primeira diagramação
-- [ ] Estruturação de níveis (Ex: Chapter)
-- [ ] Tamanho e tipo da fonte
-- [ ] Formato do livro
-- [ ] Limpeza de arquivo (Ex: Sujeiras de conversão; negritos; etc)
-- [ ] Padronização: Aspas
-- [ ] Padronização: Itálicos
-- [ ] Padronização: Travessão e meia risca
-- [ ] Padronização: Versaletes
-- [ ] Padronização: Epígrafes
-- [ ] Padronização: Versos
-- [ ] Padronização: Citações
-- [ ] Padronização: Espaço fino
-- [ ] Padronização: Espaço fino entre ldots e parênteses
-- [ ] Padronização: Pontuação das notas de rodapé (Ex: Antes ou depois da nota)
-- [ ] Padronização: Reticências
+- [X] Estruturação de níveis (Ex: Chapter)
+- [X] Tamanho e tipo da fonte
+- [X] Formato do livro
+- [X] Limpeza de arquivo (Ex: Sujeiras de conversão; negritos; etc)
+- [X] Padronização: Aspas
+- [X] Padronização: Itálicos
+- [X] Padronização: Travessão e meia risca
+- [X] Padronização: Versaletes
+- [X] Padronização: Epígrafes
+- [X] Padronização: Versos
+- [X] Padronização: Citações
+- [X] Padronização: Espaço fino
+- [X] Padronização: Espaço fino entre ldots e parênteses
+- [X] Padronização: Pontuação das notas de rodapé (Ex: Antes ou depois da nota)
+- [X] Padronização: Reticências
 
 # Fechamento
-- [ ] Título
-- [ ] Autor
-- [ ] Título original
+- [X] Título
+- [X] Autor
+- [X] Título original
 - [ ] Número da edição
 - [ ] ISBN
 - [ ] Ficha catalográfica
 - [ ] Nomes do corpo editorial Reedições: Menção ao editorial antigo
 - [ ] Nomes dos colaboradores
-- [ ] Publicidade atualizada
+- [X] Publicidade atualizada
